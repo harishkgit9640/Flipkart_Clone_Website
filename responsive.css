@@ -1,0 +1,28 @@
+
+@media screen and (max-width: 900px) and (min-width: 300px){
+    main{
+
+        background-color: red;
+    }
+   
+    .navbar{
+        flex-direction: column;
+    }
+    .center{
+        margin-top: 15px;
+        flex-direction: column;
+    }
+    .search, .logo{
+        margin-top: 15px;
+    }
+    .login{
+        visibility: hidden;
+    }
+    .cards{
+        overflow: scroll;
+    }
+    .text-center{
+        font-size: 14px;
+    }
+    
+}

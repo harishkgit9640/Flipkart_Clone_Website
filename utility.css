@@ -1,0 +1,10 @@
+.flex_center{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.text-center{
+    text-align: center;
+    margin: 5px 0px;
+    cursor: pointer;
+}
